@@ -1,0 +1,8 @@
+Scenes Overrides:             All are case sensitive
+  PlayerNotification           : The notification you get at the start of the game as a notice to the player
+  Menu                         : The main menu
+  MemoryScene                  : The place where you are suppost to talk to "it" being the angel
+  Diolouge                     : Where all Diolouge happens, this is specifically the one where the player is spoken to by an angel
+  playerDeath                  : The scene the player is baught to and displays how they died
+  Level 1                      : The first level in the game and is where you are suppost to collect a keycard as the first objective
+  L1_Hallway                   : In extention to Level 1 this is where you must continuously run or you are killed. surviving brings you to a cutscene.
