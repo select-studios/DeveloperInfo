@@ -6,3 +6,4 @@ Scenes Overrides:             All are case sensitive
   playerDeath                  : The scene the player is baught to and displays how they died
   Level 1                      : The first level in the game and is where you are suppost to collect a keycard as the first objective
   L1_Hallway                   : In extention to Level 1 this is where you must continuously run or you are killed. surviving brings you to a cutscene.
+  Level 2                      : The second level. currently in development
